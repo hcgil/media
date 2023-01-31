@@ -1,6 +1,6 @@
 # Release notes
 
-### Unreleased changes
+### ### 1.0.0-beta04 (2023-01-31)
 
 *   Core library:
     *   Tweak the renderer's decoder ordering logic to uphold the
